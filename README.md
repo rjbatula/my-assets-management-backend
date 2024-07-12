@@ -20,9 +20,9 @@ npm start
 
 # Backend API
 
-## AlphaVantage and CoinGecko Free Tier API
+## Yahoo Finance and CoinGecko Free Tier API
 
-`Having tried the free tier of both API, i was restricted to the rate limits and was not able to fully test the application thus, i resulted in using web scraping methods instead.`
+`Having tried the free tier of both API, I resulted in using Yahoo Finance and CoinGecko API to get the latest pricing of the ticker.`
 
 ## GET /api/stock-price/:ticker
 
